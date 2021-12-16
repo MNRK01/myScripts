@@ -150,13 +150,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.713725</real>
+		<real>1.000000</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>0.211765</real>
+		<real>0.466667</real>
 		<key>Red Component</key>
-		<real>0.611765</real>
+		<real>1.000000</real>
 	</dict>
 	<key>Ansi 6 Color</key>
 	<dict>
